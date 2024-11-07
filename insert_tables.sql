@@ -22,7 +22,8 @@ INSERT INTO albums (title, release_year) VALUES
     ('Parachutes ', 2000),
     ('Everyday Life', 2019),
     ('Bi-2', 2000),
-    ('Vavilon', 2004);
+    ('Vavilon', 2004),
+    ('My rock-n-roll', 207, 4);
     
  INSERT INTO artists_albums (artists_id, albums_id) VALUES 
     (1, 5),
